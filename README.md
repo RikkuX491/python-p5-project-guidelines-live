@@ -41,7 +41,7 @@ requirements with your project.
 
 ## Project Proposal
 
-Before you can begin working on your Phase 5 Capstone Project, you must prepare a Project Proposal which includes the following:
+You must prepare a Project Proposal which must be approved by your instructor before you can begin working on your Phase 5 Capstone Project. The Project Proposal must include the following:
 
 1. A wireframe for your React app portion of the project.
 
