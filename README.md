@@ -51,13 +51,13 @@ You must prepare a Project Proposal which must be approved by your instructor be
 
 4. A Project Pitch with the following content:
 
-- The basic story of your application / project
-- The core features of your project
-- The 4 models / SQLite database data for your 4 models (tables, columns, and relationships between tables) you'll be using and how you'll use it
-- What is the many-to-many relationship that you will implement into your project?
-- The 5 client-side routes that will be present in your React app
-- The new technology that you will implement into your project (You must implement something new not taught in the curriculum, into your project)
-- Challenges you expect to face
+   - The basic story of your application / project
+   - The core features of your project
+   - The 4 models / SQLite database data for your 4 models (tables, columns, and relationships between tables) you'll be using and how you'll use it
+   - What is the many-to-many relationship that you will implement into your project?
+   - The 5 client-side routes that will be present in your React app
+   - The new technology that you will implement into your project (You must implement something new not taught in the curriculum, into your project)
+   - Challenges you expect to face
 
 Here are the resources to create the wireframe, component hierarchy, and Entity-Relationship diagrams:
 - Excalidraw is a great website / tool that you can use for making wireframes & React Component Hierarchies to use for planning your React front-end: https://excalidraw.com/
