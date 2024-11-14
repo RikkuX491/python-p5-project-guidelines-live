@@ -39,6 +39,34 @@ You must meet the following Phase 5 Project Minimum Requirements:
 ** Please discuss with your instructor if you have any issues aligning these
 requirements with your project.
 
+## Project Proposal
+
+Before you can begin working on your Phase 5 Capstone Project, you must prepare a Project Proposal which includes the following:
+
+1. A wireframe for your React app portion of the project.
+
+2. A React component hierarchy for your React app portion of the project.
+
+3. An Entity-Relationship diagram for your database portion of the project.
+
+4. A Project Pitch with the following content:
+
+- The basic story of your application / project
+- The core features of your project
+- The 4 models / SQLite database data for your 4 models (tables, columns, and relationships between tables) you'll be using and how you'll use it
+- What is the many-to-many relationship that you will implement into your project?
+- The 5 client-side routes that will be present in your React app
+- The new technology that you will implement into your project (You must implement something new not taught in the curriculum, into your project)
+- Challenges you expect to face
+
+Here are the resources to create the wireframe, component hierarchy, and Entity-Relationship diagrams:
+- Excalidraw is a great website / tool that you can use for making wireframes & React Component Hierarchies to use for planning your React front-end: https://excalidraw.com/
+- DB Diagram is a great website / tool that you can use for making Entity-Relationship diagrams to use for planning your models / tables and columns for your Flask backend: https://dbdiagram.io/
+
+## Project Template
+
+You can feel free to use this [Phase 4 Project Template](https://github.com/learn-co-curriculum/python-p4-project-template) when building your Phase 5 project.
+
 ## Helpful Tools
 
 ### Organization
