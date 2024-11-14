@@ -34,7 +34,7 @@ You must meet the following Phase 5 Project Minimum Requirements:
 - Implement validations and error handling.
 - Implement something new not taught in the curriculum. (Check in with your
   instructor to ensure the scope of your idea is appropriate.)
-- Implement `useContext` or Redux.
+- Implement `useContext` or `useOutletContext`.
 
 ** Please discuss with your instructor if you have any issues aligning these
 requirements with your project.
